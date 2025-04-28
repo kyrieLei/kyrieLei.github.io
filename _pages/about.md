@@ -24,24 +24,24 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 ### (*: Equal Contribution)
 
 - **LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning**  
-  Di Zhang*, Jianbo Wu*,* **Jingdi Lei***, Tong Che*, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li, Wanli Ouyang, Dongzhan Zhou
-  ***NAACL 2025***
+  Di Zhang*, Jianbo Wu*,* **Jingdi Lei***, Tong Che*, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li, Wanli Ouyang, Dongzhan Zhou  
+  ***NAACL 2025***  
   [[pdf]](https://arxiv.org/abs/2410.02884)
 - **Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**  
-  Di Zhang*, **Jingdi Lei***, Junxian Li*, Xunzhi Wang*, Yujie Liu, Zonglin Yang, Jiatong Li, Weida Wang, Suorong Yang, Jianbo Wu, Peng Ye, Wanli Ouyang, Dongzhan Zhou
-  ***CVPR 2025***
+  Di Zhang*, **Jingdi Lei***, Junxian Li*, Xunzhi Wang*, Yujie Liu, Zonglin Yang, Jiatong Li, Weida Wang, Suorong Yang, Jianbo Wu, Peng Ye, Wanli Ouyang, Dongzhan Zhou  
+  ***CVPR 2025***  
   [[pdf]](https://arxiv.org/pdf/2411.18203)
-- ***ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**  
-  Junxian Li*, Di Zhang*, Xunzhi Wang*, Zeying Hao,* **Jingdi Lei**, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Wei Li, Mao Su, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou
-  ***AAAI 2025***
+- ***ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**    
+  Junxian Li*, Di Zhang*, Xunzhi Wang*, Zeying Hao,* **Jingdi Lei**, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Wei Li, Mao Su, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou  
+  ***AAAI 2025***  
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/32020/34175)
-- ***In-Vehicle Acoustic Event Detection Model Based on Deep Neural Network**
-  **Jingdi Lei**, Yilin Cheng, Jing Wang, Liang Xu, Jianqian Zhang, Zhiyu Li
-  ***ICCSI 2023***
+- ***In-Vehicle Acoustic Event Detection Model Based on Deep Neural Network**  
+  **Jingdi Lei**, Yilin Cheng, Jing Wang, Liang Xu, Jianqian Zhang, Zhiyu Li  
+  ***ICCSI 2023***  
   [[pdf]](https://drive.google.com/file/d/1-2CLyiu125ZEAA9Hu4_72Swy7pjcENKz/view)*
-- ***MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**
-  Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li
-  **Preprint**
+- ***MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**  
+  Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li  
+  **Preprint**  
   [[pdf]](https://arxiv.org/abs/2410.02884)*
 
 ## 🎖 Honors and Awards
