@@ -46,10 +46,10 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 
 ## 🎖 Honors and Awards
 
-- 2025.04 Outstanding Graduate of Beijing
-- 2025.04 Outstanding Graduate of Beijing Institute of Technology
-- 2024.12 National Scholarship
-- 2023.12 Excellent Student as Beijing Institute of Technology
+- 2025.04 Outstanding graduate of Beijing
+- 2025.04 Outstanding graduate of Beijing Institute of Technology
+- 2024.12 National scholarship
+- 2023.12 Merit student as Beijing Institute of Technology
 
 ## 📖 Educations
 
@@ -57,4 +57,4 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 
 ## 💼 Internship
 
-- 2024.07 - 2025.04 Shanghai Artificial Intelligence Laboratory
+- 2024.07 - 2025.04 Research intern at AI for Science team, Shanghai Artificial Intelligence Laboratory
