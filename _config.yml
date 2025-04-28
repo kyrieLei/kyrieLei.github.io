@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jingdi Lei/Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jingdi Lei"
 description              : &description "A student at Beijing Institute of Technology"
