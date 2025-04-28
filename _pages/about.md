@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-# Introduction
-
 I am Jingdi Lei (雷京迪), an undergraduate student at School of Electronics and Integrated Circuit, Beijing Institute of Technology, I was also a research intern at Shanghai Artificial Labratory. My research focuses on Large Language Models, Multimodal Large Language Models and Reinforcement Learning, specifically focusing on LLM reasoning and developing methods to make AI more safe. You can find my CV [here](../assets/CV.pdf).
 
 If you are interest in collaborating (or just chatting) with me, feel free to email me.
