@@ -38,11 +38,11 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 - **In-Vehicle Acoustic Event Detection Model Based on Deep Neural Network**  
   **Jingdi Lei**, Yilin Cheng, Jing Wang, Liang Xu, Jianqian Zhang, Zhiyu Li  
   ***ICCSI 2023***  
-  [[pdf]](https://drive.google.com/file/d/1-2CLyiu125ZEAA9Hu4_72Swy7pjcENKz/view)*
+  [[pdf]](https://drive.google.com/file/d/1-2CLyiu125ZEAA9Hu4_72Swy7pjcENKz/view)
 - **MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**  
   Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li  
   **Preprint**  
-  [[pdf]](https://arxiv.org/abs/2410.02884)*
+  [[pdf]](https://arxiv.org/abs/2410.02884)
 
 ## 🎖 Honors and Awards
 
