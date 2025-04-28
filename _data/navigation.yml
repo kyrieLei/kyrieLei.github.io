@@ -9,17 +9,17 @@
 
 main:
   - title: "News"  
-    url: /about/#news
+    url: /about/#ljd_news
 
   - title: "Publications"
-    url: /about/#publications 
+    url: /about/#ljd_publications 
 
   - title: "Awards"
-    url: /about/#awards
+    url: /about/#ljd_awards
     
   - title: "Educations"
-    url: /about/#educations
+    url: /about/#ljd_educations
         
   - title: "Internship"
-    url: /about/#internship
+    url: /about/#ljd_internship
     
