@@ -58,7 +58,7 @@ Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan 
 
 ## 📖 Educations
 
-* *2021.08 - 2025.06 (expected)* , Undergraduate Student, Beijing Institute of Technology
+- 2021.08 - 2025.06, Undergraduate Student, Beijing Institute of Technology
 
 ## 💼 Internship
 
