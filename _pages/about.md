@@ -10,7 +10,7 @@ I am Jingdi Lei (雷京迪), an undergraduate student at School of Electronics a
 
 If you are interest in collaborating (or just chatting) with me, feel free to email me.
 
-### 🔥 News {#news}
+### <h2 id="news">🔥 News</h2>
 
 * *2025.04* :  🏅 I received the Outstanding Graduate of Beijing and Outstanding Graduate of Beijing Institute of Technology
 * *2025.03* :  🎉 1 Paper (as co-first author) accepted by  **CVPR 2025**
@@ -20,7 +20,7 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 * *2023.12* :  🏅 I received the Outstanding student of Beijing Institute of Technology
 * *2023.06* :  🎉 1 Paper (as first author) accepted by  **ICCSI** **2023**
 
-## 📝 Selected Papers {#publications}
+## <h2 id="publications">📝 Selected Papers</h2>
 
 #### (*: Equal Contribution)
 
@@ -49,17 +49,17 @@ Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan 
 **Preprint**<br>
 [[pdf]](https://arxiv.org/abs/2410.02884)
 
-## 🎖 Honors and Awards {#awards}
+## <h2 id="publications">🎖 Honors and Awards</h2>
 
 - 2025.04 Outstanding Graduate of Beijing
 - 2025.04 Outstanding Graduate of Beijing Institute of Technology
 - 2024.12 National Scholarship
 - 2023.12 Excellent Student as Beijing Institute of Technology
 
-## 📖 Educations {#educations}
+## <h2 id="publications">📖 Educations</h2>
 
 * *2021.08 - 2025.06 (expected)* , Undergraduate Student, Beijing Institute of Technology
 
-## 💼 Internship {#internship}
+## <h2 id="publications">💼 Internship</h2>
 
 - 2024.07 - 2025.04 Shanghai Artificial Intelligence Laboratory
