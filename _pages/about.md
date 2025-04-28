@@ -10,7 +10,7 @@ I am Jingdi Lei (雷京迪), an undergraduate student at School of Electronics a
 
 If you are interest in collaborating (or just chatting) with me, feel free to email me.
 
-### <h2 id="news">🔥 News</h2>
+### <h2 id="ljd_news">🔥 News</h2>
 
 * *2025.04* :  🏅 I received the Outstanding Graduate of Beijing and Outstanding Graduate of Beijing Institute of Technology
 * *2025.03* :  🎉 1 Paper (as co-first author) accepted by  **CVPR 2025**
@@ -20,9 +20,9 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 * *2023.12* :  🏅 I received the Outstanding student of Beijing Institute of Technology
 * *2023.06* :  🎉 1 Paper (as first author) accepted by  **ICCSI** **2023**
 
-## <h2 id="publications">📝 Selected Papers</h2>
+## <h2 id="ljd_publications">📝 Selected Papers</h2>
 
-#### (*: Equal Contribution)
+### (*: Equal Contribution)
 
 - **LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning**<br>
 Di Zhang*, Jianbo Wu*, **Jingdi Lei***, Tong Che*, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li, Wanli Ouyang, Dongzhan Zhou<br>
@@ -49,17 +49,17 @@ Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan 
 **Preprint**<br>
 [[pdf]](https://arxiv.org/abs/2410.02884)
 
-## <h2 id="publications">🎖 Honors and Awards</h2>
+## <h2 id="ljd_awards">🎖 Honors and Awards</h2>
 
 - 2025.04 Outstanding Graduate of Beijing
 - 2025.04 Outstanding Graduate of Beijing Institute of Technology
 - 2024.12 National Scholarship
 - 2023.12 Excellent Student as Beijing Institute of Technology
 
-## <h2 id="publications">📖 Educations</h2>
+## <h2 id="ljd_educations">📖 Educations</h2>
 
 * *2021.08 - 2025.06 (expected)* , Undergraduate Student, Beijing Institute of Technology
 
-## <h2 id="publications">💼 Internship</h2>
+## <h2 id="ljd_internship">💼 Internship</h2>
 
 - 2024.07 - 2025.04 Shanghai Artificial Intelligence Laboratory
