@@ -24,7 +24,7 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 ### (*: Equal Contribution)
 
 - **LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning**  
-  Di Zhang*, Jianbo Wu*,* **Jingdi Lei***, Tong Che*, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li, Wanli Ouyang, Dongzhan Zhou  
+  Di Zhang*, Jianbo Wu*, **Jingdi Lei***, Tong Che*, Jiatong Li, Tong Xie, Xiaoshui Huang, Shufei Zhang, Marco Pavone, Yuqiang Li, Wanli Ouyang, Dongzhan Zhou  
   ***NAACL 2025***  
   [[pdf]](https://arxiv.org/abs/2410.02884)
 - **Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**  
@@ -32,7 +32,7 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
   ***CVPR 2025***  
   [[pdf]](https://arxiv.org/pdf/2411.18203)
 - ***ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**    
-  Junxian Li*, Di Zhang*, Xunzhi Wang*, Zeying Hao,* **Jingdi Lei**, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Wei Li, Mao Su, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou  
+  Junxian Li*, Di Zhang*, Xunzhi Wang*, Zeying Hao*, **Jingdi Lei**, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Wei Li, Mao Su, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou  
   ***AAAI 2025***  
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/32020/34175)
 - ***In-Vehicle Acoustic Event Detection Model Based on Deep Neural Network**  
