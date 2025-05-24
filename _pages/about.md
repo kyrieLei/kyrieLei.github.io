@@ -58,4 +58,4 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 
 ## 💼 Internship
 
-- 2024.07 - 2025.04 Research intern at AI for Science team, Shanghai Artificial Intelligence Laboratory
+- 2024.07 - 2025.04 Research intern at Shanghai Artificial Intelligence Laboratory
