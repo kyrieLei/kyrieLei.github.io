@@ -43,7 +43,7 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 - **MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**  
   Jiatong Li, Yunqing Liu, Wei Liu, **Jingdi Lei**, Di Zhang, Wenqi Fan, Dongzhan Zhou, Yuqiang Li, Qing Li  
   **Preprint**  
-  [[pdf]](https://arxiv.org/abs/2410.02884)
+  [[pdf]](https://arxiv.org/abs/2411.14721)
 
 ## 🎖 Honors and Awards
 
