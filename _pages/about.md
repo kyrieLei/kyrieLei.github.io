@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Jingdi Lei (雷京迪), an incoming Ph.D. student at School of Electrical and Electronic Engineering, Nanyang Technological University. I received my B.Eng degree at Beijing Institute of Technology. My research focuses on Large Language Models, Multimodal Large Language Models and Reinforcement Learning, specifically focusing on LLM reasoning and developing methods to make AI more safe. You can find my CV [here](../assets/CV.pdf).
+I am Jingdi Lei (雷京迪), a first-year Ph.D. student at School of Electrical and Electronic Engineering, Nanyang Technological University. I received my B.Eng degree at Beijing Institute of Technology. My research focuses on Large Language Models, Multimodal Large Language Models and Reinforcement Learning, specifically focusing on LLM reasoning and developing methods to make AI more safe. You can find my CV [here](../assets/CV.pdf).
 
 If you are interest in collaborating (or just chatting) with me, feel free to email me.
 
