@@ -32,6 +32,10 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
   Di Zhang\*, **Jingdi Lei**\*, Junxian Li\*, Xunzhi Wang\*, Yujie Liu, Zonglin Yang, Jiatong Li, Weida Wang, Suorong Yang, Jianbo Wu, Peng Ye, Wanli Ouyang, Dongzhan Zhou  
   ***CVPR 2025***  
   [[pdf]](https://arxiv.org/pdf/2411.18203)
+- **OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost Always!**  
+  Jingdi Lei, Varun Gumma, Rishabh Bhardwaj, Seok Min Lim, Chuan Li, Amir Zadeh, Soujanya Poria  
+  ***Preprint***  
+  [[pdf]](https://arxiv.org/pdf/2509.26495)
 - **ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**    
   Junxian Li\*, Di Zhang\*, Xunzhi Wang\*, Zeying Hao\*, **Jingdi Lei**, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Wei Li, Mao Su, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou  
   ***AAAI 2025***  
@@ -52,10 +56,16 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 - 2024.12 National scholarship
 - 2023.12 Merit student as Beijing Institute of Technology
 
+## Academic Services
+
+Conference Reviewer: AAAI 2026, ICLR 2026
+
 ## 📖 Educations
 
 - 2021.08 - 2025.06, Undergraduate Student, Beijing Institute of Technology
+- 2025.08 - 2029.07(expected), PhD Student, Nanyang Technological University
 
 ## 💼 Internship
 
 - 2024.07 - 2025.04 Research intern at Shanghai Artificial Intelligence Laboratory
+
