@@ -58,7 +58,7 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 
 ## Academic Services
 
-Conference Reviewer: AAAI 2026, ICLR 2026
+Conference Reviewer: AAAI 2026, ICLR 2026, ARR, CVPR 2026
 
 ## 📖 Educations
 
