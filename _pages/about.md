@@ -11,11 +11,12 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 
 ### 🔥 News
 
+* *2026.01* :  🎉 OffTopicEval has been accepted by **ICLR 2026**
 * *2025.04* :  🏅 I received the outstanding graduate of Beijing and outstanding graduate of Beijing Institute of Technology
-* *2025.03* :  🎉 1 Paper (as co-first author) accepted by  **CVPR 2025**
-* *2025.01* :  🎉 1 Paper (as co-first author) accepted by  **NAACL 2025**
+* *2025.03* :  🎉 Critic-V (as co-first author) accepted by  **CVPR 2025**
+* *2025.01* :  🎉 LLaMA-Berry (as co-first author) accepted by  **NAACL 2025**
 * *2024.12* :  🏅 I received the national scholorship
-* *2024.11* :  🎉 1 Paper accepted by  **AAAI 2025**
+* *2024.11* :  🎉 ChemVLM accepted by  **AAAI 2025**
 * *2023.12* :  🏅 I received the Dongfeng scholarship
 * *2023.12* :  🏅 I received the merit student of Beijing Institute of Technology
 * *2023.06* :  🎉 1 Paper (as first author) accepted by  **ICCSI** **2023**
@@ -34,7 +35,7 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
   [[pdf]](https://arxiv.org/pdf/2411.18203)
 - **OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost Always!**  
   Jingdi Lei, Varun Gumma, Rishabh Bhardwaj, Seok Min Lim, Chuan Li, Amir Zadeh, Soujanya Poria  
-  ***Preprint***  
+  ***ICLR 2026***  
   [[pdf]](https://arxiv.org/pdf/2509.26495)
 - **ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**    
   Junxian Li\*, Di Zhang\*, Xunzhi Wang\*, Zeying Hao\*, **Jingdi Lei**, Qian Tan, Cai Zhou, Wei Liu, Yaotian Yang, Xinrui Xiong, Weiyun Wang, Zhe Chen, Wenhai Wang, Wei Li, Mao Su, Shufei Zhang, Wanli Ouyang, Yuqiang Li, Dongzhan Zhou  
