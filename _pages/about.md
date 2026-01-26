@@ -13,13 +13,13 @@ If you are interest in collaborating (or just chatting) with me, feel free to em
 
 * *2026.01* :  🎉 OffTopicEval has been accepted by **ICLR 2026**
 * *2025.04* :  🏅 I received the outstanding graduate of Beijing and outstanding graduate of Beijing Institute of Technology
-* *2025.03* :  🎉 Critic-V (as co-first author) accepted by  **CVPR 2025**
-* *2025.01* :  🎉 LLaMA-Berry (as co-first author) accepted by  **NAACL 2025**
+* *2025.03* :  🎉 Critic-V is (as co-first author) accepted by  **CVPR 2025**
+* *2025.01* :  🎉 LLaMA-Berry is (as co-first author) accepted by  **NAACL 2025**
 * *2024.12* :  🏅 I received the national scholorship
-* *2024.11* :  🎉 ChemVLM accepted by  **AAAI 2025**
+* *2024.11* :  🎉 ChemVLM is accepted by  **AAAI 2025**
 * *2023.12* :  🏅 I received the Dongfeng scholarship
 * *2023.12* :  🏅 I received the merit student of Beijing Institute of Technology
-* *2023.06* :  🎉 1 Paper (as first author) accepted by  **ICCSI** **2023**
+* *2023.06* :  🎉 1 Paper is (as first author) accepted by  **ICCSI** **2023**
 
 ## 📝 Selected Papers
 
