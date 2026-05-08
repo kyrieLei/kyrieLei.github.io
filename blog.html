@@ -1,5 +1,6 @@
 ---
 title: Blog
+permalink: /blog/
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -15,10 +16,10 @@ title: Blog
 
     <title>Blog | Jingdi Lei</title>
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ '/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
     <link href="{{ '/css/agency.css?v=20260508-blog-md' | relative_url }}" rel="stylesheet">
-    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="css/font-1.css" rel="stylesheet" type="text/css">
+    <link href="{{ '/font-awesome-4.1.0/css/font-awesome.min.css' | relative_url }}" rel="stylesheet" type="text/css">
+    <link href="{{ '/css/font-1.css' | relative_url }}" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -48,7 +49,7 @@ title: Blog
                         <a href="{{ '/index.html#pub' | relative_url }}">Papers</a>
                     </li>
                     <li>
-                        <a href="{{ '/blog.html' | relative_url }}">Blog</a>
+                        <a href="{{ '/blog/' | relative_url }}">Blog</a>
                     </li>
                 </ul>
             </div>
@@ -111,12 +112,12 @@ title: Blog
         </div>
     </footer>
 
-    <script src="js/jquery-1.11.0.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/new.js"></script>
-    <script src="js/classie.js"></script>
-    <script src="js/cbpAnimatedHeader.js"></script>
-    <script src="js/agency.js"></script>
+    <script src="{{ '/js/jquery-1.11.0.js' | relative_url }}"></script>
+    <script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
+    <script src="{{ '/js/new.js' | relative_url }}"></script>
+    <script src="{{ '/js/classie.js' | relative_url }}"></script>
+    <script src="{{ '/js/cbpAnimatedHeader.js' | relative_url }}"></script>
+    <script src="{{ '/js/agency.js' | relative_url }}"></script>
 
 </body>
 
