@@ -1,5 +1,3 @@
----
----
 <!DOCTYPE html>
 <html lang="en">
 
@@ -71,28 +69,11 @@
                 </div>
             </div>
 
-            {% assign visible_posts = site.posts | where_exp: "post", "post.published != false and post.categories contains 'blog'" %}
-            {% if visible_posts.size > 0 %}
-                {% for post in visible_posts %}
-                <div class="row">
-                    <div class="col-md-3 text-muted text-right">{{ post.date | date: "%Y.%m.%d" }}</div>
-                    <div class="col-md-7 text-muted">
-                        <a href="{{ post.url | relative_url }}"><b>{{ post.title }}</b></a>
-                        {% if post.excerpt %}
-                        <br>{{ post.excerpt | strip_html | truncatewords: 36 }}
-                        {% endif %}
-                    </div>
-                    <div class="col-md-2 text-muted">[<a href="{{ post.url | relative_url }}">Read</a>]</div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-muted text-center">
+                    Posts will appear here soon.
                 </div>
-                <br>
-                {% endfor %}
-            {% else %}
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-muted text-center">
-                        Blog posts will appear here after adding Markdown files under <code>_posts</code> with <code>categories: blog</code>.
-                    </div>
-                </div>
-            {% endif %}
+            </div>
         </div>
     </section>
 
@@ -100,7 +81,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Jingdi Lei's Homepage 2024</span>
+                    <span class="copyright">Jingdi Lei's Homepage 2026</span>
                 </div>
                 <div class="col-md-4"></div>
                 <div class="col-md-4">
