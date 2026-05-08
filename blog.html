@@ -1,3 +1,6 @@
+---
+title: Blog
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,7 +16,7 @@
     <title>Blog | Jingdi Lei</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/agency.css?v=20260508-light-title" rel="stylesheet">
+    <link href="{{ '/css/agency.css?v=20260508-blog-md' | relative_url }}" rel="stylesheet">
     <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="css/font-1.css" rel="stylesheet" type="text/css">
 
@@ -30,22 +33,22 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="index.html">Jingdi Lei</a>
+                <a class="navbar-brand page-scroll" href="{{ '/index.html' | relative_url }}">Jingdi Lei</a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="index.html#about">About</a>
+                        <a href="{{ '/index.html#about' | relative_url }}">About</a>
                     </li>
                     <li>
-                        <a href="index.html#news">News</a>
+                        <a href="{{ '/index.html#news' | relative_url }}">News</a>
                     </li>
                     <li>
-                        <a href="index.html#pub">Papers</a>
+                        <a href="{{ '/index.html#pub' | relative_url }}">Papers</a>
                     </li>
                     <li>
-                        <a href="blog.html">Blog</a>
+                        <a href="{{ '/blog.html' | relative_url }}">Blog</a>
                     </li>
                 </ul>
             </div>
@@ -69,11 +72,26 @@
                 </div>
             </div>
 
+            {% assign visible_posts = site.posts | where_exp: "post", "post.published != false" %}
+            {% if visible_posts.size > 0 %}
+            <div class="blog-list">
+                {% for post in visible_posts %}
+                <article class="blog-post">
+                    <div class="blog-post-date">{{ post.date | date: "%Y.%m.%d" }}</div>
+                    <h3 class="blog-post-title">
+                        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h3>
+                    <p class="blog-post-excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 42 }}</p>
+                </article>
+                {% endfor %}
+            </div>
+            {% else %}
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-muted text-center">
                     Posts will appear here soon.
                 </div>
             </div>
+            {% endif %}
         </div>
     </section>
 

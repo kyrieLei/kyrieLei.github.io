@@ -292,7 +292,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    color: #999;
+    color: #edecec;
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -327,6 +327,79 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
+}
+
+.blog-list {
+    margin: 0 auto;
+    max-width: 760px;
+}
+
+.blog-post {
+    margin-bottom: 36px;
+}
+
+.blog-post-date,
+.post-meta {
+    margin-bottom: 8px;
+    color: #999;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.blog-post-title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 1.35;
+}
+
+.blog-post-title a {
+    color: #333;
+}
+
+.blog-post-title a:hover,
+.blog-post-title a:focus {
+    color: #777;
+    text-decoration: none;
+}
+
+.blog-post-excerpt {
+    color: #777;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.post-content {
+    margin: 0 auto;
+    max-width: 760px;
+    color: #555;
+    font-size: 17px;
+    line-height: 1.8;
+}
+
+.post-content h2 {
+    margin-top: 0;
+    margin-bottom: 24px;
+    color: #333;
+    line-height: 1.35;
+}
+
+.post-content h3,
+.post-content h4 {
+    margin-top: 32px;
+    color: #333;
+}
+
+.post-content p,
+.post-content ul,
+.post-content ol {
+    margin-bottom: 18px;
+}
+
+.post-content img {
+    max-width: 100%;
 }
 
 section h2.section-heading {

@@ -1,0 +1,14 @@
+title: Jingdi Lei
+description: Jingdi Lei's homepage and blog.
+url: "https://kyrielei.github.io"
+baseurl: ""
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Jingdi Lei
