@@ -5,12 +5,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Jingdi Lei (雷京迪), a first-year Ph.D. student at School of Electrical and Electronic Engineering, Nanyang Technological University. I received my B.Eng degree at Beijing Institute of Technology. My research focuses on Large Language Models, Multimodal Large Language Models and Reinforcement Learning, focusing on expanding the boundaries of AI. You can find my CV [here](../assets/CV.pdf).
+I am Jingdi Lei (雷京迪), a second-year Ph.D. student at School of Electrical and Electronic Engineering, Nanyang Technological University. I received my B.Eng degree at Beijing Institute of Technology. My research focuses on Large Language Models, Multimodal Large Language Models and Reinforcement Learning, focusing on expanding the boundaries of AI. You can find my CV [here](../assets/CV.pdf).
 
 If you are interest in collaborating (or just chatting) with me, feel free to email me.
 
 ### 🔥 News
 
+* *2026.09* : 🎉 Exact Flow Linear Attention (EFLA) and δ-mem have been accepted by **NeurIPS 2026** (EFLA as a spotlight paper)
 * *2026.01* :  🎉 OffTopicEval has been accepted by **ICLR 2026**
 * *2025.04* :  🏅 I received the outstanding graduate of Beijing and outstanding graduate of Beijing Institute of Technology
 * *2025.03* :  🎉 Critic-V is (as co-first author) accepted by  **CVPR 2025**
@@ -69,4 +70,3 @@ Conference Reviewer: AAAI 2026, ICLR 2026, ARR, CVPR 2026
 ## 💼 Internship
 
 - 2024.07 - 2025.04 Research intern at Shanghai Artificial Intelligence Laboratory
-
